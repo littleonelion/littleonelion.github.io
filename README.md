@@ -6,6 +6,6 @@ git clone --branch gh-pges --depth 1 https://github.com/x/x.git
 git add --all && git commit -m "updates" && git push origin gh-pages
 ```
 
-http://russiasexygirls.com
-http://kitty-kats.net/forums/picture-thumbs-posts-rar-files.15/
-https://www.photoresizer.com
+http://russiasexygirls.com  
+http://kitty-kats.net/forums/picture-thumbs-posts-rar-files.15/  
+https://www.photoresizer.com  
